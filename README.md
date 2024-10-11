@@ -34,7 +34,7 @@ To start the application, run:
 ```bash
 npm start
 ```
-Visit [http://localhost:3000](http://localhost:3000) in your web browser to access the site.
+Visit [http://localhost:3000](http://localhost:8080) in your web browser to access the site.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, please submit a pull request or create an issue.
