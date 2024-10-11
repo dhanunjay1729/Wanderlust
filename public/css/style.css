@@ -1,0 +1,132 @@
+.body{
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+.navbar{
+    height: 4rem;
+    background-color: white;
+    text-align: center;
+}
+.fa-compass{
+    color: red;
+    font-size: 2rem;
+}
+.nav-link{
+    color: #222222 !important;
+}
+.navbar-collapse {
+    background-color: white !important;
+    position: relative;
+}
+.content {
+    margin-top: 70px; /* Adjust based on the height of your navbar */
+} 
+.collapse.show {
+    background-color: white !important;
+}
+.f-info-links a{
+    text-decoration: none;
+    color: #222222;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+    color: #222222;
+}
+.f-info-links, .f-info-brand{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+    align-items: center;
+}
+.f-info-socials{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.3rem;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.f-info{
+    text-align: center;
+    display: flex;
+    height: 8rem;
+    background-color: #ebebeb;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+    align-items: center;
+} 
+.fa-instagram{
+    color: rgb(236, 51, 82);
+    margin: 0 5rem 0 5rem;
+}
+.fa-square-facebook{
+    color: blue;
+}
+.fa-linkedin{
+    color: rgb(5, 5, 105);
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.card{
+    border: none !important;
+    margin-bottom: 2.5rem;
+}
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100%;
+    object-fit: cover !important;
+}
+
+.card-body{
+    padding: 0 !important;
+}
+.card-text p{
+    font-weight: 400 !important;
+}
+.listing-link{
+    text-decoration: none;
+}
+/*overlay effect*/
+.card-img-overlay{
+    opacity: 0;
+}
+.card-img-overlay:hover{
+    opacity: 0.2;
+    background-color: white;
+}
+.form-control{
+    width: 100%;
+}
+.left{
+    padding-left: 2px !important;
+}
+/* In your custom CSS file or within a <style> tag */
+
+/* In your custom CSS file or within a <style> tag */
+@media (min-width: 992px) { /* Bootstrap's breakpoint for large screens */
+    .px-lg-9 {
+        padding-left: 9rem; /* Adjust the value as needed */
+        padding-right: 9rem; /* Adjust the value as needed */
+    }
+}
+.btn{
+    background-color: red !important;
+    color: black !important;
+}
+.btn:hover{
+    background-color: red !important;
+    color: white !important;
+}
+@media (min-width: 992px) { /* Bootstrap's breakpoint for large screens */
+    .px-lg-15 {
+        padding-left: 15rem; /* Adjust the value as needed */
+        padding-right:  15rem; /* Adjust the value as needed */
+    }
+}
+
+
