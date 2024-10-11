@@ -15,27 +15,6 @@ Wanderlust is a web application designed as a clone of Airbnb, enabling users to
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
-## Installation Instructions
-To set up the project locally, follow these steps:
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/dhanunjay1729/wanderlust.git
-    cd wanderlust
-    ```
-
-2. **Install Dependencies**:
-    ```bash
-    npm install
-    ```
-
-## Running the Application
-To start the application, run:
-```bash
-npm start
-```
-Visit [http://localhost:8080](http://localhost:8080) in your web browser to access the site.
-
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, please submit a pull request or create an issue.
 
